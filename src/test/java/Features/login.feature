@@ -9,10 +9,3 @@ Feature: Launch browser
     Then Select Stops
     Then Select checkbox
     Then click on login button
-#some code changes
-#new changes
-#Ajit kumar new changes
-#AAAAAAAAAAAA
-
-
-#asdfasdfaskdjfhaskdjfasf
